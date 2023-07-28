@@ -19,6 +19,8 @@ class Sample {
 }
 ```
 
+![Diagram of the system](diagram.png.jpg)
+
 ```javascript
 function main() {
 
