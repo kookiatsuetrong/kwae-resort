@@ -7,6 +7,23 @@
 
 ![The Resort Photo](resort.jpg)
 
+```
+For monospace text.
+```
+
+```java
+class Sample {
+    public static void main(String[] data) {
+
+    }
+}
+```
+
+```javascript
+function main() {
+
+}
+```
 
  
 
