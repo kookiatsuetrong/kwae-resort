@@ -3,6 +3,10 @@
 ด้วยงบประมาณ 650,000 บาท มีรายละเอียดดังนี้
 
 * แสดงผลได้บนอุปกรณ์ทั่วไปในปัจจุบัน เช่น iPhone, Tablet, Computer
-* Xxxx
+* มี Layout เหมือน Resort มาตรฐานโลก
+
+![The Resort Photo](resort.jpg)
+
+
  
 
